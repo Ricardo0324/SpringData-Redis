@@ -429,3 +429,5 @@ public class RedisTest02 {
 ![image-20220404173835487](images/image-20220404173835487.png)
 
 至此我们已经完成了在java代码中获取redis的消息通知
+
+参考视频：https://www.bilibili.com/video/BV1a4411a7b3?spm_id_from=333.337.search-card.all.click
