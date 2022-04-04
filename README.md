@@ -47,11 +47,11 @@ SpringData Redis是Spring官方推出，可以算是Spring框架集成Redis操�
 
 ## 1.2 SpringData Redis的介绍
 
-![image-20220404170538213](images\image005.png)
+![image-20220404170538213](images/image005-16490655657961.png)
 
 特性：
 
-![image006](images\image006.png)
+![image006](images/image006-16490655695882.png)
 
 ## 1.3 搭建环境
 
